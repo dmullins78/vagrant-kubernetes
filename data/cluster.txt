@@ -14,3 +14,9 @@ You can now join any number of machines by running the following on each node
 as root:
 
   kubeadm join 10.0.2.15:6443 --token l32fwu.8w6ykjjgd2djnc2u --discovery-token-ca-cert-hash sha256:eb92c250219f8e101470b55712c965444465bb9a6f617dd5eed3b293fb264eb8
+
+
+
+
+Work
+kubeadm join 10.0.2.15:6443 --token jkqaxy.ka0o2rcamgzn2rop --discovery-token-ca-cert-hash sha256:93dd4e9dd64e8b6cdaf3fd2e3c6475f0312b088803f8a6d063c5b5420a0a0240
